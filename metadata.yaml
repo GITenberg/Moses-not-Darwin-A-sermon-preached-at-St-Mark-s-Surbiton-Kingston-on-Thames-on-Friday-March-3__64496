@@ -1,0 +1,30 @@
+_repo: Moses-not-Darwin-A-sermon-preached-at-St-Mark-s-Surbiton-Kingston-on-Thames-on-Friday-March-3__64496
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johns, B. G. (Bennett George)
+    alias: Johns, Bennett George
+    birthdate: 1820
+    deathdate: 1900
+    gutenberg_agent_id: '52932'
+    url: http://www.gutenberg.org/2009/agents/52932
+description: ''
+gutenberg_issued: '2021-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Creation'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcsh 'Bible. Genesis, II, 7 -- Sermons'
+- !lcsh 'Church of England -- Sermons -- 19th century'
+- !lcsh 'Evolution'
+- GITenberg
+title: "Moses, not Darwin\r\nA sermon preached at St. Mark's, Surbiton, Kingston-on-Thames\
+  \ on Friday, March 31, 1871"
+url: http://www.gutenberg.org/ebooks/64496
